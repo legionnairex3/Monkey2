@@ -3,6 +3,7 @@
 	Original concept and code by Paul Grayston - Yavin(Team Rebellion Software)
 	Original start date [2nd Jan 2005 - 1am]
 	Adapted by Jim Brown [April 2009]
+	Adopted by Jesse for Monkey2 [feb 2017]
 	TODO
 	============================
 	1. Implement hi-score name entry. See Game.Died() function
